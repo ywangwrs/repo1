@@ -14,7 +14,7 @@
 #### ▶ 经典禁片
 <a href="https://dctrz7l9ug6uw.cloudfront.net/falsefire.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/17031401/f8cb1b84-4f41-11e6-8ee7-c43c32d458a1.jpg" width="639"></a>
 #### ▶ 【共产主义的终极目的】
-<a href="https://pan.baidu.com/s/1kWYIY0n"><img src="https://s6.postimg.org/kagp85dw1/image.jpg"></a>
+<a href="https://pan.baidu.com/s/1kWYIY0n"><img src="https://s6.postimg.org/kagp85dw1/image.jpg" width="639"></a>
 #### ▶ 大陆禁片 · 免费高速在线观看
 <a href="https://dctrz7l9ug6uw.cloudfront.net/Res343.mp4" target="_blank"><img border="0" src="https://cloud.githubusercontent.com/assets/13546896/16456023/688f9806-3de4-11e6-92c3-3637d55830f9.gif" width="639"  style="max-width:100%;" vspace=0></a><a href="https://github.com/znianw/video/issues/22" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063699/493d97f6-f3ab-11e5-9451-3255023a79a5.jpg" width="639" style="max-width:100%;" vspace=0></a>
 <a href="https://github.com/znianw/video/issues/21" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/13417842/70b980a6-df3d-11e5-9d50-871a61e03822.jpg" width="317" style="max-width:100%;"></a>
