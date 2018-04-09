@@ -24,7 +24,7 @@
 <a href="http://bit.do/cangzishi" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063740/9ab28898-f3ac-11e5-80de-64d215ca39f5.jpg" width="317" style="max-width:100%;"></a>
 <a href="http://bit.do/lvcheng" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/13417768/d04579f4-df3c-11e5-96d6-1feba792a47a.jpg" width="317" style="max-width:100%;"></a>
 #### ▶ 我要三退 
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=88"><img src="https://s6.postimg.org/6xv3wjblt/image.png" width="639"></a>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=88"><img src="https://s7.postimg.org/8rgz8qkaz/image.png" width="639"></a>
 #### ▶ 禁闻快览
 ##### ● [江泽民的贪腐治军](https://github.com/znianw/video/issues/17) ● [“擒贼先擒王 抓捕江泽民”系列报导](https://github.com/znianw/video/issues/8) ● [【特稿】中共亡党危机](https://github.com/znianw/video/issues/7) 
 ##### ● [【特稿】中共卖国·大好河山拱手送人·史上最大卖国政权](https://github.com/znianw/video/issues/1) ● [天津大爆炸真相探秘](https://github.com/znianw/video/issues/15)  
