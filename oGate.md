@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
+    <td align=center><img src="https://github.com/yowping/repo1/blob/master/pics/51t_qrcode.png?raw=true" height="200"/></td>
   </tr>
   <tr>
     <td align=center>网门 網門<br/>
@@ -30,10 +30,12 @@
   </tr>
   <tr>
     <td align=center>
-<a href="https://dctrz7l9ug6uw.cloudfront.net/falsefire.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/17031401/f8cb1b84-4f41-11e6-8ee7-c43c32d458a1.jpg" width="639"></a><br>
-<a href="https://github.com/znianw/video/issues/22" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063699/493d97f6-f3ab-11e5-9451-3255023a79a5.jpg" width="639"></a><br>
-<a href="https://github.com/znianw/video/issues/21" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/13417842/70b980a6-df3d-11e5-9d50-871a61e03822.jpg" width="306"></a>
-<a href="http://bit.do/cangzishi" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063740/9ab28898-f3ac-11e5-80de-64d215ca39f5.jpg" width="326"></a>
+<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c838296" target="_blank"><img img border="0" src=https://github.com/yowping/repo1/blob/master/pics/ccp_final_goal.jpg?raw=true" width="639"></a><br>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816712" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/17031401/f8cb1b84-4f41-11e6-8ee7-c43c32d458a1.jpg" width="639"></a><br>
+<a href="https://s3-ap-northeast-1.amazonaws.com/ogatet/show.htm?from=51t#c816837" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063699/493d97f6-f3ab-11e5-9451-3255023a79a5.jpg" width="639"></a><br>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816703" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/13417842/70b980a6-df3d-11e5-9d50-871a61e03822.jpg" width="306"></a>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816770" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063740/9ab28898-f3ac-11e5-80de-64d215ca39f5.jpg" width="326"></a><br>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816846" target="_blank"><img img border="0" src="https://github.com/yowping/repo1/blob/master/pics/3tui_number.png?raw=true" width="639"></a><br>
     </td>
   </tr>
   <tr>
