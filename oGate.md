@@ -5,21 +5,20 @@
   <tr>
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
-      <a href="https://git.io/51t>https://git.io/ogate2</a><br/>
-      <a href="https://git.io/51t>https://github.com/ogate2/ogate</a><br/>
+      <a href="https://git.io/51t">https://git.io/51t</a><br/>
     </td>
   </tr>
   <tr>
     <td align=center>请尝试不同入口，进入动态网址<br/>      
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=51t">入口</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t">入口</a>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=51t">入口</a><br/>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/show.htm?from=51t">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t">入口</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t">入口</a>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=51t">入口</a>
-      <a href="https://s3-ap-northeast-1.amazonaws.com/ogatet/show.htm?from=51t">入口</a><br/>
+      <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/caribbean-blue/home-5-xxl.png" height="80"/></a>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/soylent-red/home-5-xxl.png" height="80"/></a>
+      <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/barbie-pink/home-5-xxl.png" height="80"/></a><br/>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/guacamole-green/home-4-xxl.png" height="80"/></a>
+      <a href="https://s3.amazonaws.com/ogate/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/royal-blue/home-4-xxl.png" height="80"/></a>
+      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/orange/home-4-xxl.png" height="80"/></a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/soylent-red/home-xxl.png" height="80"/></a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/orange/home-xxl.png" height="80"/></a>
+      <a href="https://s3-ap-northeast-1.amazonaws.com/ogatet/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/caribbean-blue/home-xxl.png" height="80"/></a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
@@ -30,7 +29,12 @@
     </td>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/oGate2/Up/master/oGate_640.jpg"/></td>
+    <td align=center>
+<a href="https://dctrz7l9ug6uw.cloudfront.net/falsefire.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/17031401/f8cb1b84-4f41-11e6-8ee7-c43c32d458a1.jpg" width="639"></a><br>
+<a href="https://github.com/znianw/video/issues/22" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063699/493d97f6-f3ab-11e5-9451-3255023a79a5.jpg" width="639"></a><br>
+<a href="https://github.com/znianw/video/issues/21" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/13417842/70b980a6-df3d-11e5-9d50-871a61e03822.jpg" width="306"></a>
+<a href="http://bit.do/cangzishi" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063740/9ab28898-f3ac-11e5-80de-64d215ca39f5.jpg" width="326"></a>
+    </td>
   </tr>
   <tr>
     <td align=center>
@@ -44,3 +48,4 @@
 分享全球菁萃资源。<br/></td>
   </tr>
 </table>    
+
