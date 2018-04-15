@@ -31,7 +31,8 @@
   <tr>
     <td align=center>
       新闻区<br>
-      <a href="https://github.com/yowping/repo1/issues/1" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783143-7452985e-40cc-11e8-8a3a-b575f03e8e9d.png" width="306"></a>
+      <a href="https://github.com/yowping/repo1/issues/1" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783143-7452985e-40cc-11e8-8a3a-b575f03e8e9d.png" width="306"></a> 
+      <a href="https://github.com/yowping/repo1/issues/2" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783307-1758c536-40ce-11e8-9a90-09e675ef0d4f.jpg" width="306"></a>
     </td>
   </tr>
   <tr>
