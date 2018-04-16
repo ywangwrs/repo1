@@ -32,7 +32,7 @@
     <td align=center>
       新闻区<br>
 <a href="https://github.com/yowping/repo1/issues/1" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783143-7452985e-40cc-11e8-8a3a-b575f03e8e9d.png" title="长沙至北京航班因乘务员遭劫持迫降郑州" width="295"></a> <a href="https://github.com/yowping/repo1/issues/2" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783307-1758c536-40ce-11e8-9a90-09e675ef0d4f.jpg" title="山西贪官家财过亿 官方未公开其获刑情况" width="316"></a><br>
-<a href="https://github.com/yowping/repo1/issues/3" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783426-df42b394-40cf-11e8-8aad-7e3b8ff602f3.jpg" title="2018年美国十个最好的居住城市" width="639"></a>
+<a href="https://github.com/yowping/repo1/issues/3" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783426-df42b394-40cf-11e8-8aad-7e3b8ff602f3.jpg" title="2018年美国十个最好的居住城市" width="326"></a> <a href="https://github.com/yowping/repo1/issues/4" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38785520-0175f218-40ef-11e8-89b7-519cc7eb3fa5.png" title="央视罗京在地狱中的日子骇人听闻" width="326"></a>
     </td>
   </tr>
   <tr>
