@@ -18,6 +18,11 @@
     </td>
   </tr>
   <tr>
+    <td align=center>
+      视频区<br>
+    </td>
+  </tr>
+  <tr>
     <td align=center>请尝试不同<font size="30px" color="blue">入口</font>，进入动态网址<br/>      
       <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/caribbean-blue/home-5-xxl.png" height="80"/></a>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/soylent-red/home-5-xxl.png" height="80"/></a>
