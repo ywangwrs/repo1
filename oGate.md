@@ -20,6 +20,7 @@
   <tr>
     <td align=center>
       视频区<br>
+  <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t#c816689" target="_blank"><img img border="0" src=https://github.com/yowping/repo1/blob/master/pics/dakucha.png?raw=true" width="238"></a> <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t#c816676" target="_blank"><img src="https://github.com/yowping/repo1/blob/master/pics/passcode.png?raw=true" width="239"></a> <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=51t#c898003" target="_blank"><img src="https://github.com/yowping/repo1/blob/master/pics/qika.png?raw=true" width="238"></a>
     </td>
   </tr>
   <tr>
