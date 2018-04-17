@@ -4,7 +4,7 @@
       新闻区<br>
 <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c909262" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845872-884e5680-41c7-11e8-98af-15d8b1b78676.png"></a> <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=51t#c909366" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845878-88aa6f2e-41c7-11e8-9956-262d68ca60ab.png"></a> <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c909207" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845873-886209d2-41c7-11e8-8f7b-d6ede4894380.png"></a>
 <br>
-<a href="https://github.com/yowping/repo1/issues/3" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783426-df42b394-40cf-11e8-8aad-7e3b8ff602f3.jpg" title="2018年美国十个最好的居住城市" width="325"></a> <a href="https://github.com/yowping/repo1/issues/4" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38785520-0175f218-40ef-11e8-89b7-519cc7eb3fa5.png" title="央视罗京在地狱中的日子骇人听闻" width="425"></a>
+<a href="https://github.com/yowping/repo1/issues/2" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38853008-e9497150-41e9-11e8-99f9-994e5bd6cb5d.jpg" title="广东中山254名公安参与“老虎机”赌博赚钱" width="315"></a> <a href="https://github.com/yowping/repo1/issues/4" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38785520-0175f218-40ef-11e8-89b7-519cc7eb3fa5.png" title="央视罗京在地狱中的日子骇人听闻" width="410"></a>
     </td>
   </tr>
   <tr>
