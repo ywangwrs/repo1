@@ -2,8 +2,9 @@
   <tr>
     <td align=center>
       新闻区<br>
-<a href="https://github.com/yowping/repo1/issues/1" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783143-7452985e-40cc-11e8-8a3a-b575f03e8e9d.png" title="长沙至北京航班因乘务员遭劫持迫降郑州" width="305"></a> <a href="https://github.com/yowping/repo1/issues/5" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38838176-03ffba0a-41a3-11e8-850f-c074b71934b0.jpg" title="教授到原始部落生活3天 身体发生神奇变化" width="325"></a><br>
-<a href="https://github.com/yowping/repo1/issues/3" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783426-df42b394-40cf-11e8-8aad-7e3b8ff602f3.jpg" title="2018年美国十个最好的居住城市" width="275"></a> <a href="https://github.com/yowping/repo1/issues/4" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38785520-0175f218-40ef-11e8-89b7-519cc7eb3fa5.png" title="央视罗京在地狱中的日子骇人听闻" width="355"></a>
+<a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c909262" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845872-884e5680-41c7-11e8-98af-15d8b1b78676.png"></a> <a href="https://s3.us-east-2.amazonaws.com/ogateh/show.htm?from=51t#c909366" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845878-88aa6f2e-41c7-11e8-9956-262d68ca60ab.png"></a> <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c909207" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845873-886209d2-41c7-11e8-8f7b-d6ede4894380.png"></a>
+<br>
+<a href="https://github.com/yowping/repo1/issues/3" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38783426-df42b394-40cf-11e8-8aad-7e3b8ff602f3.jpg" title="2018年美国十个最好的居住城市" width="325"></a> <a href="https://github.com/yowping/repo1/issues/4" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38785520-0175f218-40ef-11e8-89b7-519cc7eb3fa5.png" title="央视罗京在地狱中的日子骇人听闻" width="425"></a>
     </td>
   </tr>
   <tr>
