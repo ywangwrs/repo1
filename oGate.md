@@ -2,6 +2,14 @@
   <tr>
     <td align=center>
       新闻区<br>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913394" target="_blank">史前怪兽？英国河畔惊见神秘生物遗体</a>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913400" target="_blank">揭秘：江泽民下跨国追杀令 毒害毛泽东私人医生</a>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913395" target="_blank">拥有这类“货币笑料”的国家现在还有多少？</a>
+    </td>
+  </tr>
+  <tr>
+    <td align=center>
+      头条区<br>
 <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t#c912998" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39386328-1c4b90dc-4a42-11e8-93d0-56a795f82b2a.png"></a> <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t#c912991" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39386329-1c656872-4a42-11e8-8f0e-a76646d3dc9a.png"></a> <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t#c912989" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39386330-1c7a5c96-4a42-11e8-9f81-ffbcd8644a6e.png"></a>
 <br>
 <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913171" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39402288-009e7a38-4b29-11e8-932a-926916926768.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c912313" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39274636-9e288756-48b0-11e8-84c5-f19267fbb6e0.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c912305" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39274637-9e3d8ed0-48b0-11e8-804b-ff85221212e1.png"></a>
