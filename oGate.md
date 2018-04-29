@@ -2,8 +2,8 @@
   <tr>
     <td align=center>
       新闻区<br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913394" target="_blank">史前怪兽？英国河畔惊见神秘生物遗体</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913400" target="_blank">揭秘：江泽民下跨国追杀令 毒害毛泽东私人医生</a>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913394" target="_blank">史前怪兽？英国河畔惊见神秘生物遗体</a><br>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913400" target="_blank">揭秘：江泽民下跨国追杀令 毒害毛泽东私人医生</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913395" target="_blank">拥有这类“货币笑料”的国家现在还有多少？</a>
     </td>
   </tr>
