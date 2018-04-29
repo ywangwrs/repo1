@@ -2,6 +2,7 @@
   <tr>
     <td align=center>
       新闻区<br>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913390" target="_blank">“天上人间”老板后台通天 “京城第一名妓”照片曝光</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913403" target="_blank">若北韩导弹用的是华为芯片 怎么办？</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913394" target="_blank">史前怪兽？英国河畔惊见神秘生物遗体</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913400" target="_blank">揭秘：江泽民下跨国追杀令 毒害毛泽东私人医生</a><br>
