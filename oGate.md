@@ -5,6 +5,7 @@
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913394" target="_blank">史前怪兽？英国河畔惊见神秘生物遗体</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913400" target="_blank">揭秘：江泽民下跨国追杀令 毒害毛泽东私人医生</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913395" target="_blank">拥有这类“货币笑料”的国家现在还有多少？</a>
+      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t#c909992" target="_blank">西游记中的〝女儿国〞确实存在 现在仍有后人</a>
     </td>
   </tr>
   <tr>
