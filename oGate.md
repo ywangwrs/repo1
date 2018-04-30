@@ -2,6 +2,7 @@
   <tr>
     <td align=center>
       新闻区<br>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913474" target="_blank">重磅〝炸弹〞待引爆 美新列19高科技中企调查名单</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913397" target="_blank">苏州：实业投资腰斩 苏州人很快就会半城失业？</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913401" target="_blank">北京学区房要凉！西城老居民都炸锅了 其他地方也快了？</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913390" target="_blank">“天上人间”老板后台通天 “京城第一名妓”照片曝光</a><br>
