@@ -2,6 +2,7 @@
   <tr>
     <td align=center>
       新闻区<br>
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913467" target="_blank">林昭死难50周年民众祭拜 遭警方驱逐抓捕</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913235" target="_blank">江泽民一张照片令国际哗然 中方为此大为尴尬</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913474" target="_blank">重磅〝炸弹〞待引爆 美新列19高科技中企调查名单</a><br>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913397" target="_blank">苏州：实业投资腰斩 苏州人很快就会半城失业？</a><br>
