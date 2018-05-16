@@ -2,16 +2,14 @@
   <tr>
     <td align=center>
       新闻区<br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913504" target="_blank">世界最牛芯片霸主竟在中华民国 大陆人问算不算是中国的</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913467" target="_blank">林昭死难50周年民众祭拜 遭警方驱逐抓捕</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913235" target="_blank">江泽民一张照片令国际哗然 中方为此大为尴尬</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913474" target="_blank">重磅〝炸弹〞待引爆 美新列19高科技中企调查名单</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913397" target="_blank">苏州：实业投资腰斩 苏州人很快就会半城失业？</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913401" target="_blank">北京学区房要凉！西城老居民都炸锅了 其他地方也快了？</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913403" target="_blank">若北韩导弹用的是华为芯片 怎么办？</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913394" target="_blank">史前怪兽？英国河畔惊见神秘生物遗体</a><br>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913395" target="_blank">拥有这类“货币笑料”的国家现在还有多少？</a><br>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/show.htm?from=51t#c909992" target="_blank">西游记中的〝女儿国〞确实存在 现在仍有后人</a>
+      <a href="https://ni2.org/wFgS7HY" target="_blank">中国官员上班忙什么？李克强想起就冒火</a><br>
+      <a href="https://ni2.org/F0iczT" target="_blank">王宝强离婚案再发酵 马蓉闺蜜爆离婚秘密</a><br>
+      <a href="http://t.cn/R394JQh" target="_blank">扑朔迷离！“九一三事件”的前夜究竟发生了什么？</a><br>
+      <a href="http://uee.me/TtHk" target="_blank">为马克思招魂是谁的主意？专家揭王沪宁〝投名状〞</a><br>
+      <a href="http://kks.me/aAtYv" target="_blank">王三运被曝一个电话就能把北京女歌星找来</a><br>
+      <a href="https://t.hstar.org/aaaGo" target="_blank">奸杀空姐现场照外流 郑州警方4人被拘</a><br>
+      <a href="http://uee.me/TsPp" target="_blank">网曝邓小平整习近平父亲习仲勋的内幕</a><br>
+      <a href="http://kks.me/aArF4" target="_blank">【视频】宋祖英江泽民真实关系超出外界想像</a><br>
     </td>
   </tr>
   <tr>
@@ -57,7 +55,7 @@
 <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c816712" target="_blank"><img src="https://user-images.githubusercontent.com/35414177/39090729-f1af9ecc-45b4-11e8-812e-33bf533ad220.png" width="730"></a><br>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816703" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/13417842/70b980a6-df3d-11e5-9d50-871a61e03822.jpg" width="354"></a>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816770" target="_blank"><img img border="0" src="https://cloud.githubusercontent.com/assets/13546896/14063740/9ab28898-f3ac-11e5-80de-64d215ca39f5.jpg" width="370"></a><br>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816846" target="_blank"><img img border="0" src="https://github.com/yowping/repo1/blob/master/pics/3tui_number.png?raw=true" width="730"></a><br>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816846" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/40104672-f52eba02-58be-11e8-9d9f-208c4f0456c8.png" width="730"></a><br>
     </td>
   </tr>
   <tr>
