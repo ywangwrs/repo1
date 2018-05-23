@@ -15,32 +15,14 @@
   <tr>
     <td align=center>
       头条区<br>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c913942" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508904-26fc8a2c-4db2-11e8-84e2-c70811f75ea3.png"></a>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c914176" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508903-26e6c5d4-4db2-11e8-8945-4303e9bc7ffc.png"></a>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c914080" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508902-26d506be-4db2-11e8-8666-a4b096660426.png"></a>
-<br>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c913797" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508901-26c4de06-4db2-11e8-93e0-3c44c05d3847.png"></a>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c914270" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508900-26b2fd4e-4db2-11e8-8121-abb5ebd37ad5.png"></a>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c914006" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508899-26a2827a-4db2-11e8-9527-6707e5418469.png"></a>
-<br>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c914084" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508898-26910be4-4db2-11e8-8821-217143eb7b0d.png"></a>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c914063" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508897-268200b8-4db2-11e8-8609-861b8421e7a4.png"></a>
-<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c914029" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39508896-26706696-4db2-11e8-8adb-4b644db7cf12.png"></a>
-<br>
-<a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913454" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412521-65c03d9e-4beb-11e8-810c-f82d3983d81a.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913466" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412520-65af0c2c-4beb-11e8-9776-284fe8025aee.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913337" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412519-659ecce0-4beb-11e8-806e-55825698c338.png"></a>
-<br>
-<a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913328" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412518-658d6a4a-4beb-11e8-8eba-f452837f803b.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913440" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412517-655fc75c-4beb-11e8-8343-77324e0e5fdf.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913297" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412516-654ddbdc-4beb-11e8-872e-ac3d4807e6e9.png"></a>
-<br>
-<a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913390" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412515-653d3e58-4beb-11e8-9654-1d99cdb75074.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913420" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412514-652e2490-4beb-11e8-8f66-15250f1de33a.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913363" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39412513-651dc172-4beb-11e8-80bc-a08ef0c120b9.png"></a>
-<br>
-<a href="https://s3.ap-northeast-2.amazonaws.com/ogates/show.htm?from=51t#c912938" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39405540-b87cf7e2-4b74-11e8-825d-d0009c0f7532.png"></a> <a href="https://s3-us-west-1.amazonaws.com/ogaten/show.htm?from=51t#c911970" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39213634-18b1e67e-47e0-11e8-8af9-c9c30b602760.png"></a> <a href="https://s3.eu-west-2.amazonaws.com/ogatel/show.htm?from=51t#c913171" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/39402288-009e7a38-4b29-11e8-932a-926916926768.png"></a>
-<br>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c911367" target="_blank"><img img border="0" src="https://www.minghui.org/mh/article_images/2016-4-26-minghui-falun-gong-finland-02--ss.jpg" title="“四二五”政治构陷 江派黑手待拿下" width="292"></a> <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c894830" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38785520-0175f218-40ef-11e8-89b7-519cc7eb3fa5.png" title="央视罗京在地狱中的日子骇人听闻" width="430"></a>
     </td>
   </tr>
   <tr>
     <td align=center>
       经典区<br>
+<a href="https://s3.amazonaws.com/ogate/show.htm?from=51t#c920937" target="_blank"><img src="https://user-images.githubusercontent.com/35414177/40407563-d959e9a4-5e32-11e8-98d3-233c2221d8d7.jpg" width="730"></a>
+<br>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c816837" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845868-880d64f4-41c7-11e8-9b54-73a7ebaffdba.png"></a> <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c838296" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845869-881bb176-41c7-11e8-8a7b-8df271a9f4ff.png"></a> <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c816787" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845876-888fcb2e-41c7-11e8-8495-f0daf5f5c630.png"></a>
 <br>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c816851" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845874-887610bc-41c7-11e8-82a2-fd7b5b90fe22.png"></a> <a href="https://s3.eu-central-1.amazonaws.com/ogatef/show.htm?from=51t#c816479" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845877-889b096c-41c7-11e8-8220-77958be68a35.png"></a> <a href="https://s3.ap-south-1.amazonaws.com/ogatem/show.htm?from=51t#c841287" target="_blank"><img img border="0" src="https://user-images.githubusercontent.com/35414177/38845870-88343e30-41c7-11e8-9b63-0a5bc0fa4a96.png"></a>
