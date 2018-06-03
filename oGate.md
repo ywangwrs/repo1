@@ -66,18 +66,18 @@
     </td>
   </tr>
   <tr>
-    <td align=center>请尝试不同<font size="30px" color="blue">入口</font>，进入动态网址<br/>      
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/caribbean-blue/home-5-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/soylent-red/home-5-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/barbie-pink/home-5-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/guacamole-green/home-4-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/royal-blue/home-4-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/orange/home-4-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/soylent-red/home-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/orange/home-xxl.png" height="75"/></a>
-      <a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/caribbean-blue/home-xxl.png" height="75"/></a><br/>
-      微信如提示停止访问该网页，须<br/>
-      先点击右上角，选择浏览器打开<br/>
+    <td align=center>
+
+## 更多精彩禁片请访问「网门」
+
+<a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://cloud.githubusercontent.com/assets/18081243/14478287/b9c5c8a4-0157-11e6-8366-5f4616f09815.jpg" width="730"/></a><br>
+<a href="https://d1mrgxhgddww9l.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/soylent-red/home-5-xxl.png" height="45" title="入口1"/></a> 
+<a href="https://d2cn6dno861g8d.cloudfront.net/show.htm?from=51t"><img src="https://www.iconsdb.com/icons/preview/barbie-pink/home-5-xxl.png" height="45" title="入口2"/></a><br/>
+如果网址或二维码失效，请用非国产浏览器访问：<br>
+https://git.io/ogate2 
+https://git.io/ogatea2
+https://github.com/ogate2/ogate <br>
+微信中请点击右上角三个点，选择在浏览器中打开。
     </td>
   </tr>
 </table>    
