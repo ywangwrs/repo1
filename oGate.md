@@ -5,10 +5,10 @@
 ## 翻墙软件
 
 一键翻墙 ✪ 简单快速的翻墙软件 ✪ 即时更新<br>
-✓完全免费     ✓免安装     ✓无插件无广告     <a href="https://github.com/tomalltruthforyou/truth/issues/1">【软件介绍】</a><br>
-<a href="http://git.io/HNvvvQ" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8962834/542bc3b2-35f7-11e5-8cd8-d275cecec187.jpg" width="240"></a> 
-<a href="http://git.io/2S1IBQ" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8963614/a7cea12a-35fb-11e5-8285-2c052e5ea386.jpg" width="240"></a>
-<a href="https://git.io/fgp" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8962833/542b236c-35f7-11e5-9b6b-5ecef4e6a46e.jpg" width="240"></a>
+✓完全免费     ✓免安装     ✓无插件无广告<br>
+<a href="https://cvkhqqmotkhuc.global.ssl.fastly.net/oo.aspx?name=c816767&key=abigzmxsaypg&from=51t" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8962834/542bc3b2-35f7-11e5-8cd8-d275cecec187.jpg" width="240"></a> 
+<a href="https://cvkhqqmotkhuc.global.ssl.fastly.net/oo.aspx?name=c816767&key=abigzmxsaypg&from=51t" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8963614/a7cea12a-35fb-11e5-8285-2c052e5ea386.jpg" width="240"></a>
+<a href="https://cvkhqqmotkhuc.global.ssl.fastly.net/oo.aspx?name=c816729&key=abigzmxsaypg&from=51t" target="_blank"><img src="https://cloud.githubusercontent.com/assets/13546896/8962833/542b236c-35f7-11e5-9b6b-5ecef4e6a46e.jpg" width="240"></a>
     </td>
   </tr>
   <tr>
